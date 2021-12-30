@@ -44,7 +44,8 @@ A highly enthusiastic individual aiming to learn and explore the challenging dom
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukulsingh27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukulsingh27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsingh27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulsingh27&" alt="mukul" /></p>
