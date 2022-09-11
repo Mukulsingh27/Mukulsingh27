@@ -21,7 +21,7 @@ A highly enthusiastic individual aiming to learn and explore the challenging dom
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’have started learning NodeJS, TypeScript and Next.js
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help you
 - 📫 How to reach me: mukulsingh3344@gmail.com
 - 📝 [Resume](https://www.linkedin.com/in/mukulsingh27/overlay/1635502032664/single-media-viewer?type=DOCUMENT&profileId=ACoAACjZAv0B8AfyaPUz9T8E0L36UdFO7FjXDL0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtHHmXE%2BqTCWXu6B6eM2%2FNQ%3D%3D).
 
@@ -36,6 +36,8 @@ A highly enthusiastic individual aiming to learn and explore the challenging dom
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
