@@ -1,3 +1,5 @@
+<img align="center" alt="GIF" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" width="100%" height="340" />
+
 ## Hi there, I'm <a href="http://mukulsingh.tk/" target="_blank">Mukul Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukulsingh27/)
@@ -14,7 +16,7 @@ I am a full-stack Web Developer. I love to do programming, listening music, eati
 
 A highly enthusiastic individual aiming to learn and explore the challenging domain of the IT industry, through diﬀerent opportunities, and would like to venture into development, incorporating proﬁcient communication along with analytical thinking.
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="408" height="318" />
   
 
 **Talking about Me:**
@@ -46,8 +48,8 @@ A highly enthusiastic individual aiming to learn and explore the challenging dom
 📈 **My GitHub Stats:**
 
 <p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukulsingh27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsingh27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsingh27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukulsingh27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulsingh27&" alt="mukul" /></p>
