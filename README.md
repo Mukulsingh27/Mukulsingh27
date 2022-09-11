@@ -47,9 +47,10 @@ A highly enthusiastic individual aiming to learn and explore the challenging dom
 
 📈 **My GitHub Stats:**
 
-<p>
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsingh27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukulsingh27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulsingh27&" alt="mukul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mukulsingh27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="mukulsingh27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulsingh27&" alt="mukulsingh27" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsingh27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="mukulsingh27" /></p>
+<br/><br/>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="107em" align="center" src="https://github-profile-trophy.vercel.app/?username=mukulsingh27" alt="mukulsingh27" /></a></p>
