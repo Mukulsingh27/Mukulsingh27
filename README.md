@@ -1,5 +1,3 @@
-<img align="center" alt="GIF" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" width="100%" height="340" />
-
 ## Hi there, I'm <a href="http://mukulsingh.tk/" target="_blank">Mukul Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukulsingh27/)
