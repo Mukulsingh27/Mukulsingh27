@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Mukulsingh27.Mukulsingh27)
 
-I am a full-stack Web Developer. I love to do programming, listening music, eating food and at last travelling.
+I'm a full-stack Web Developer. I love to do programming, listening music, eating food and at last travelling.
 
 A highly enthusiastic individual aiming to learn and explore the challenging domain of the IT industry, through diﬀerent opportunities, and would like to venture into development, incorporating proﬁcient communication along with analytical thinking.
 
