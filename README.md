@@ -22,7 +22,7 @@ A highly enthusiastic individual aiming to learn and explore the challenging dom
 - 🚀 I’have started learning NodeJS, TypeScript and Next.js
 - 💬 Ask me about anything, I am happy to help you
 - 📫 How to reach me: mukulsingh3344@gmail.com
-- 📝 [Resume](https://www.linkedin.com/in/mukulsingh27/overlay/1635502032664/single-media-viewer?type=DOCUMENT&profileId=ACoAACjZAv0B8AfyaPUz9T8E0L36UdFO7FjXDL0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtHHmXE%2BqTCWXu6B6eM2%2FNQ%3D%3D).
+- 📝 [Resume](https://www.linkedin.com/in/mukulsingh27/details/featured/1635504417236/single-media-viewer/).
 
 </br>
 
