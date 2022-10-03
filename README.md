@@ -11,7 +11,7 @@
 
 I'm a full-stack web developer. I love to do programming, listening music, eating food and at last travelling.
 
-A highly enthusiastic individual aiming to learn and explore the challenging domain of the IT industry, through diﬀerent opportunities, and would like to venture into development, incorporating proﬁcient communication along with analytical thinking.
+A highly enthusiastic person aiming to learn and explore the challenging domain of the IT industry through different opportunities and would like to venture into development along with analytical thinking.
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="408" height="318" />
   
