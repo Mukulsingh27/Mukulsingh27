@@ -9,9 +9,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Mukulsingh27.Mukulsingh27)
 
-I'm a full-stack web developer. Who loves to do programming, listen to music, cook food, and at last traveling.
+A full-stack web developer, Who loves coding 🌐, listening to music 🎵, cooking food 🍳, and at last riding 🏍️.
 
-A highly enthusiastic person aiming to learn and explore the challenging domain of the IT industry through different opportunities and would like to venture into development along with analytical thinking.
+A highly enthusiastic person aiming to learn and explore the IT industry's challenging domain through different opportunities would like to venture into development along with analytical thinking.
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="408" height="318" />
   
@@ -19,7 +19,7 @@ A highly enthusiastic person aiming to learn and explore the challenging domain 
 **Talking about Me:**
 
 - 👨🏻‍💻 I’m currently working on something cool
-- 🚀 I’have started learning TypeScript and Next.js
+- 🚀 Have started learning TypeScript and Next.js
 - 💬 Ask me about anything, I am happy to help you
 - 📫 How to reach me: mukulsingh3344@gmail.com
 
