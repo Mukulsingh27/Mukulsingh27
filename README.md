@@ -51,4 +51,4 @@ A highly enthusiastic person aiming to learn and explore the IT industry's chall
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulsingh27&" alt="mukulsingh27" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=mukulsingh27&theme=onedark" alt="mukulsingh27" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=mukulsingh27" alt="mukulsingh27" /></a></p>
