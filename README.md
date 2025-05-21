@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Mukulsingh27.Mukulsingh27)
 
-A passionate full-stack web developer who loves coding 🌐, listening to music 🎶, cooking 🍳, and riding 🏍️.
+A passionate full-stack web developer who also loves listening to music 🎶, cooking 🍳, and riding 🏍️.
 
 An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
 
